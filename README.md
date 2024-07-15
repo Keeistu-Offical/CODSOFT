@@ -40,8 +40,8 @@ pip install -r requirements.txt
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-Keeistu-Offical/credit-card-fraud-detection.git
-cd credit-card-fraud-detection
+git clone https://github.com/your-Keeistu-Offical/CODSOFT.git
+
 ```
 
 2. Install the dependencies:
