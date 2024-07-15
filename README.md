@@ -41,7 +41,7 @@ pip install -r requirements.txt
 
 ```bash
 git clone https://github.com/your-Keeistu-Offical/CODSOFT.git
-
+cd CODSOFT
 ```
 
 2. Install the dependencies:
@@ -53,7 +53,7 @@ pip install -r requirements.txt
 3. Run the Jupyter notebook to see the data preprocessing, model training, and evaluation:
 
 ```bash
-jupyter notebook
+jupyter notebook CREDIT_CARD_FRAUD_MODEL.ipynb
 ```
 
 4. To make predictions on new data, use the `predict.py` script:
